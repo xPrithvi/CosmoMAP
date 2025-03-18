@@ -1,2 +1,2 @@
 # CosmoMAP
-CosmoMAP is a neural network model that generates X-ray surface brightness maps from of galaxy clusters from dark-matter-only simulations.
+CosmoMAP is a project that attempts to leverage machine learning to emulate magnetohydrodynamic cosmological simulations using data from their dark-matter-only counterparts.
